@@ -1,0 +1,6 @@
+The fastest version of the code is kmeans-parallel_simd.cpp.
+
+It should be compiled with 
+	g++ -O3 -ltbb -mavx
+
+I've also included the other three versions which are included in the plots.
